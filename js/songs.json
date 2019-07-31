@@ -1,0 +1,13 @@
+[{	
+	"src": "../songs/WelcometoNewYork.mp3",
+	"author": "Taylor Swift",
+	"img": "../songs/taylor.jpg",
+	"title": "Welcome to New York"
+  },
+{
+	"src": "../songs/muouren.mp3",
+	"author": "薛之谦",
+	"img": "../songs/xuezhiqian.jpg",
+	"title": "木偶人"
+}
+]
